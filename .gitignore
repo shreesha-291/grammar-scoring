@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (DO NOT UPLOAD THESE)
+dataset/
+*.wav
+*.mp3
+*.csv
+
+# Output files (can be regenerated)
+outputs/
+models/
+*.pkl
+*.pth
+submission.csv
+*.png
+*.jpg
+*.pdf
+
+# Logs
+*.log
+logs/
+
+# Temporary
+temp/
+tmp/
